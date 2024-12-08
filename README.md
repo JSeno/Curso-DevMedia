@@ -1,4 +1,4 @@
 # DevMedia
 DevMedia Curso
 
-- Primeiro Projeto com Página estática HTML.
+- Alterado Projeto do Curso

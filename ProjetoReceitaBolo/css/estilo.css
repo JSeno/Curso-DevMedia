@@ -1,0 +1,36 @@
+.top {
+    text-align: center;
+}
+
+.content-1,
+.content-2 {
+    text-align: left;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    color: #8b0000;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+h3 {
+    color: #8b0000;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+}

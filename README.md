@@ -9,3 +9,4 @@ DevMedia Curso Introdução ao HTML
 - Projeto HTML | CSS: Página estática Barbearia Stylus
 - Projeto HTML | CSS: Página estática Livro a Era Artifícial
 - Projeto HTML | CSS: Página estática Escola de Idiomas
+- Projeto HTML | CSS: Página estática Padaria Plus

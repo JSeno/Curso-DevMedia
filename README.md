@@ -10,3 +10,4 @@ DevMedia Curso Introdução ao HTML
 - 04 - Projeto HTML | CSS: Página estática Livro a Era Artifícial
 - 05 - Projeto HTML | CSS: Página estática Escola de Idiomas
 - 06 - Projeto HTML | CSS: Página estática Padaria Plus
+- 07 - Projeto HTML | CSS: Página estática Imobiliária Santos

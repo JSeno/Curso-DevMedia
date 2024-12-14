@@ -1,142 +1,142 @@
 body {
+    margin: 0;
     font-family: Tahoma;
 }
 
-div {
+/* === Estilos globais === */
+.secao {
     text-align: center;
-    padding: 30px 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
-p {
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
     margin: 10px auto;
     width: 980px;
-    text-align: justify;
-    font-size: 18px;
-    line-height: 28px;
 }
 
-.primeira-secao {
+/* ===  1ª seção === */
+.topo {
     background-color: #afddfb;
 }
 
-.primeira-secao img {
+.topo img {
     width: 150px;
 }
 
-.primeira-secao p {
-    margin-top: 15px 0px 25px 0px;
+.paragrafo-topo {
     text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
 }
 
-.primeira-secao a {
-    font-size: 18px;
+.link-topo {
     color: #1d1d1d;
-    border: 2px solid #1d1d1d;
+    font-size: 18px;
     text-decoration: none;
     margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
 }
 
-.segunda-secao {
+/* ===  2ª seção === */
+
+.banner {
+    padding-top: 0;
     margin-top: 50px;
-    padding-top: 0px;
 }
+
+/* ===  estilos para destaques === */
 
 span {
     font-weight: bold;
 }
 
-.terceira-secao h1 {
+/* ===  3ª seção === */
+
+h1 {
     color: #1d1d1d;
-    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
-.terceira-secao h2 {
-    margin-top: 0px;
-    font-weight: none;
-}
-
-h2,
-h3 {
+h2 {
+    font-weight: normal;
     color: #1c81c0;
+    margin-top: 0;
 }
 
-.terceira-secao img,
-.quinta-secao img {
+.imagem {
     width: 450px;
 }
 
-.terceira-secao span,
-.quinta-secao span {
-    color: #1c81c0;
-    font-weight: bold;
+.texto-azul {
+    color: #1d80c1;
 }
 
-.quarta-secao {
-    background-color: #1c81c0;
+/* ===  4ª seção === */
+
+.servicos,
+.contato {
+    background-color: #1d80c1;
 }
 
-.quarta-secao h3,
-.quinta-secao h3,
-.sexta-secao h3 {
+h3 {
     color: #ffffff;
     font-size: 28px;
-    line-height: 48px;
+    line-height: 42px;
 }
 
-.quarta-secao p {
-    color: #ffffff;
-    line-height: 48px;
-    font-size: 22px;
-    text-align: center;
-    width: 700px;
-}
-
-.quarta-secao span {
-    color: #fff81b;
-}
-
-.quarta-secao ul {
-    margin: 40px auto;
+.paragrafo-servicos {
     color: #ffffff;
     line-height: 42px;
-    text-align: center;
+    width: 700px;
     font-size: 22px;
-}
-
-.quarta-secao ul li {
-    text-align: center;
-    margin: 0 auto;
-}
-
-.sexta-secao {
-    background-color: #1c81c0;
     text-align: center;
 }
 
-.sexta-secao p {
-    color: #ffffff;
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+}
+
+.item-lista-servicos {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff;
+}
+
+/* ===  6ª seção === */
+
+.paragrafo-contato {
+    color: #fff;
     background-color: #1d1d1d;
     padding: 15px;
-    margin: 30px 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
-.sexta-secao span {
-    color: #fff81b;
-    font-weight: bold;
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
 }
 
-.sexta-secao ul {
-    text-decoration: none;
-    margin: 40px auto;
+.item-lista-contato {
     margin-top: 15px;
+    text-align: center;
     font-size: 18px;
 }
 
-.sexta-secao a {
+.link-contato {
     background-color: #ffffff;
-    color: #1c81c0;
+    color: #1d80c1;
     padding: 2px 5px;
     border-radius: 5px;
-    text-decoration: none;
-    line-height: 30px;
 }

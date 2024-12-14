@@ -1,0 +1,142 @@
+body {
+    font-family: Tahoma;
+}
+
+div {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.primeira-secao {
+    background-color: #afddfb;
+}
+
+.primeira-secao img {
+    width: 150px;
+}
+
+.primeira-secao p {
+    margin-top: 15px 0px 25px 0px;
+    text-align: center;
+}
+
+.primeira-secao a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.segunda-secao {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.terceira-secao h1 {
+    color: #1d1d1d;
+    margin-top: 5px;
+}
+
+.terceira-secao h2 {
+    margin-top: 0px;
+    font-weight: none;
+}
+
+h2,
+h3 {
+    color: #1c81c0;
+}
+
+.terceira-secao img,
+.quinta-secao img {
+    width: 450px;
+}
+
+.terceira-secao span,
+.quinta-secao span {
+    color: #1c81c0;
+    font-weight: bold;
+}
+
+.quarta-secao {
+    background-color: #1c81c0;
+}
+
+.quarta-secao h3,
+.quinta-secao h3,
+.sexta-secao h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 48px;
+}
+
+.quarta-secao p {
+    color: #ffffff;
+    line-height: 48px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.quarta-secao span {
+    color: #fff81b;
+}
+
+.quarta-secao ul {
+    margin: 40px auto;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.quarta-secao ul li {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.sexta-secao {
+    background-color: #1c81c0;
+    text-align: center;
+}
+
+.sexta-secao p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px 0;
+}
+
+.sexta-secao span {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.sexta-secao ul {
+    text-decoration: none;
+    margin: 40px auto;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.sexta-secao a {
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 2px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    line-height: 30px;
+}

@@ -14,3 +14,4 @@ DevMedia Curso Introdução ao HTML
 - 08 - Projeto HTML | CSS: Página estática Senhor Lei
 - 09 - Projeto HTML | CSS: Página estática Seriado Superman & Lois
 - 10 - Projeto HTML | CSS: Página estática PetShop
+- 11 - Projeto HTML | CSS: Página estática Cafeteria

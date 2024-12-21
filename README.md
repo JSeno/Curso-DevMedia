@@ -16,3 +16,4 @@ DevMedia Curso Introdução ao HTML
 - 10 - Projeto HTML | CSS: Página estática PetShop
 - 11 - Projeto HTML | CSS: Página estática Cafeteria
 - 12 - Projeto HTML | CSS: Página estática Site Provedor de Internet
+- 13 - Porjeto HTML | CSS: Página estática Pousada

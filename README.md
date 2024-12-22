@@ -1,5 +1,5 @@
 # DevMedia
-DevMedia Curso Introdução ao HTML
+Meu progresso com o curso e os projetos feitos apresentados pelo curso.
 
 ---
 

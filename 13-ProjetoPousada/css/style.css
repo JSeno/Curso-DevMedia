@@ -1,0 +1,15 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.link-topo {
+  color: #fff;
+  text-decoration: none;
+}
+
+.img-fundo {
+  background-image: url('../assets/img-fundo.jpg');
+  width: 100%;
+  max-width: 1024px;
+  height: 500px;
+}

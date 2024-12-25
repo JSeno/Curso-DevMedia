@@ -1,15 +1,57 @@
-body {
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-.link-topo {
-  color: #fff;
-  text-decoration: none;
+
+/* Topo */
+.limitar-secao {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
-.img-fundo {
-  background-image: url('../assets/img-fundo.jpg');
+.topo {
   width: 100%;
-  max-width: 1024px;
-  height: 500px;
+  position: fixed;
+  background-color: #ffffff;
 }
+
+.container-topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+  color: #3d3d3d;
+}
+
+.container-link-logotipo {
+  flex: 1 0 6%;
+}
+
+.container-link-logotipo a {
+  font-size: 24px;
+  text-decoration: none;
+  color: #3d3d3d;
+}
+
+.container-link-logotipo span {
+  color: #6592c9;
+}
+
+.container-links {
+  flex: 1 0 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link-topo {
+  text-decoration: none;
+  color: #3d3d3d;
+}
+
+/* Body */

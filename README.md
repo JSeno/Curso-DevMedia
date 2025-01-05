@@ -19,3 +19,4 @@ Meu progresso com o curso e os projetos feitos apresentados pelo curso.
 - 13 - Porjeto HTML | CSS: Página estática Pousada
 - 14 - Projeto HTML | CSS: Página estática Formulário simples
 - 15 - Projeto HTML | CSS: Página estática Formulário com uso de checkbox
+- 16 - Projeto HTML | CSS: Página estática Formulário com uso de select

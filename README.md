@@ -20,3 +20,4 @@ Meu progresso com o curso e os projetos feitos apresentados pelo curso.
 - 14 - Projeto HTML | CSS: Página estática Formulário simples
 - 15 - Projeto HTML | CSS: Página estática Formulário com uso de checkbox
 - 16 - Projeto HTML | CSS: Página estática Formulário com uso de select
+- 17 - Projeto HTML | CSS: Página estática Formulário com uso de fieldset

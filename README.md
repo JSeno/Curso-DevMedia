@@ -17,3 +17,5 @@ Meu progresso com o curso e os projetos feitos apresentados pelo curso.
 - 11 - Projeto HTML | CSS: Página estática Cafeteria
 - 12 - Projeto HTML | CSS: Página estática Site Provedor de Internet
 - 13 - Porjeto HTML | CSS: Página estática Pousada
+- 14 - Projeto HTML | CSS: Página estática Formulário simples
+- 15 - Projeto HTML | CSS: Página estática Formulário com uso de checkbox

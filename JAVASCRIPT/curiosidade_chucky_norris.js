@@ -11,12 +11,16 @@ var curiosidades_chuck_norris = [
     { titulo: "Contando sem parar",                     conteudo: "Chuck Norris contou até o infinito. Duas vezes."}
 ];
 
+// Crio uma váriavel que recebe a coleção e pego o tamanho da coleção.
 var tamanho_colecao = curiosidades_chuck_norris.length;
 
+// crio uma variável que pegara os itens dentro da coleção aleatoriamente
 var numero_sorteado = Math.floor(Math.random() * tamanho_colecao);
 
+// passo o valor sorteado da coleção como se fosse o index da coleção
 var curiosidade_escolhida = curiosidades_chuck_norris[numero_sorteado];
 
+// crio uma variavel que vai pegar a coleção e sua propriedade
 var titulo_curiosidade = curiosidade_escolhida.titulo;
 var conteudo_curiosidade = curiosidade_escolhida.conteudo;
 

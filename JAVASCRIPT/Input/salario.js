@@ -12,6 +12,10 @@ let salarioMinimo = [
   { ano: 2018, salario: 954.0 },
   { ano: 2019, salario: 998.0 },
   { ano: 2020, salario: 1045.0 },
+  { ano: 2021, salario: 1100.0 },
+  { ano: 2022, salario: 1212.0 },
+  { ano: 2023, salario: 1302.0 },
+  { ano: 2024, salario: 1320.0 },
 ];
 
 let inflacao = [
@@ -26,6 +30,10 @@ let inflacao = [
   { ano: 2018, ipca: 3.75 },
   { ano: 2019, ipca: 4.31 },
   { ano: 2020, ipca: 4.52 },
+  { ano: 2021, ipca: 10.2 },
+  { ano: 2022, ipca: 5.8 },
+  { ano: 2023, ipca: 4.6 },
+  { ano: 2024, ipca: 4.83 },
 ];
 
 console.log("Escolha uma das alternativas:\n");
